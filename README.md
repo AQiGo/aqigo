@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm 老亓(lao qi) 👋
+
+- 🌱 I’m a graduate student at 🇨🇳 [UCAS](http://hias.ucas.ac.cn/),
+- ⚡ I use daily: js / Python,
+- 🤔 My research interests include ✨ _agi_  and 🤖 _rlc_,
+- 📫 How to reach me: laoqi.cc(at)gmail.com.
 
 <!--
 **agirlc/agirlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
