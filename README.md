@@ -1,4 +1,4 @@
-### Hi there, I'm 老亓(lao qi) 👋
+### Hi there, I'm 阿亓(A Qi) 👋
 
 - 🌱 I’m a graduate student at 🇨🇳 [UCAS](http://hias.ucas.ac.cn/),
 - ⚡ I use daily: js / Python,
