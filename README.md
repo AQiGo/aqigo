@@ -1,8 +1,8 @@
-### Hi there, I'm 阿亓(A Qi) 👋
+### Hi there, I'm Qingguo Qi 👋
 
 - 🌱 I’m a graduate student at 🇨🇳 [UCAS](http://hias.ucas.ac.cn/),
 - ⚡ I use daily: js / Python,
-- 🤔 My research interests include ✨ _agi_  and 🤖 _rlc_,
+- 🤔 My research interests include ✨ _ai_
 - 📫 How to reach me: laoqi.cc(at)gmail.com.
 
 <!--
